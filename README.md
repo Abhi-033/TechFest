@@ -60,7 +60,7 @@ Before running the application, ensure you have the following:
 
 1. Run the application:
    ```bash
-   cd TechFest
+   python main.py
 
 
 ## Usage
