@@ -1,8 +1,6 @@
 import requests
 from uagents import Agent, Protocol, Model
 import time
-import tkinter as tk
-from tkinter import ttk
 from uagents.setup import fund_agent_if_low
 from plyer import notification
 
