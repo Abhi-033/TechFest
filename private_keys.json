@@ -1,8 +1,4 @@
 {
-    "my_agent": {
-        "identity_key": "2a209b2f331784077886c9fe01bf5f9e99db376eb9329ad3392ba1f1e4ff6a89",
-        "wallet_key": "J22RsBOOp1vdrfWZnejHR2NgTy4+FZpvzJFj7U7hK5M="
-    },
     "TemperatureAlertAgent": {
         "identity_key": "4eb78660f6a615946cf80e285067b60727621c9de64e8a0f744be10cb361b8ce",
         "wallet_key": "AD7lViqX6dP35R5ZIy6AQHBrClSCcc2A3DXNiwL3S2I="
